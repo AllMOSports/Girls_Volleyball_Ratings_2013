@@ -1,0 +1,100 @@
+School,OFF Rating,DEF Rating,OVR Rating,OFF Rank,DEF Rank,OVR Rank
+Villa Duchesne,1.73,1.56,3.3,1,2,1
+Visitation Academy,1.64,1.65,3.28,2,1,2
+St. Dominic,1.57,1.49,3.06,3,3,3
+Carl Junction,1.43,1.44,2.87,5,5,4
+Logan-Rogersville,1.42,1.41,2.83,6,6,5
+Perryville,1.36,1.46,2.82,7,4,6
+Notre Dame (Cape Girardeau),1.44,1.17,2.61,4,9,7
+Buffalo,1.22,1.16,2.38,8,10,8
+MICDS,1.13,1.25,2.37,11,7,9
+Reeds Spring,1.08,1.22,2.3,13,8,10
+Duchesne,1.2,1.08,2.28,9,12,11
+Dexter,1.09,1.1,2.19,12,11,12
+St. Pius X (Kansas City),1.16,1.03,2.18,10,13,13
+Lutheran South,1.07,0.96,2.03,14,14,14
+Central (Park Hills),1.03,0.96,1.99,15,15,15
+Windsor (Imperial),0.98,0.93,1.91,16,17,16
+Pleasant Hill,0.94,0.94,1.89,17,16,17
+Bishop DuBourg,0.89,0.85,1.73,18,18,18
+Ste. Genevieve,0.86,0.76,1.62,20,19,19
+North County,0.86,0.69,1.55,19,20,20
+O'Hara,0.81,0.66,1.46,21,22,21
+Grain Valley,0.73,0.69,1.41,22,21,22
+Springfield Catholic,0.66,0.59,1.25,23,24,23
+Winfield,0.61,0.61,1.22,24,23,24
+Westminster Christian Academy,0.58,0.57,1.15,26,26,25
+Notre Dame (St. Louis),0.52,0.57,1.09,27,27,26
+Savannah,0.58,0.47,1.05,25,31,27
+Affton,0.48,0.54,1.02,28,29,28
+John F. Kennedy,0.44,0.57,1.02,33,25,29
+St. Charles,0.45,0.52,0.98,31,30,30
+Festus,0.39,0.55,0.93,35,28,31
+DeSoto,0.48,0.38,0.86,29,32,32
+Marshfield,0.44,0.33,0.77,32,33,33
+Nevada,0.46,0.3,0.76,30,34,34
+John Burroughs,0.42,0.27,0.69,34,35,35
+St. Charles West,0.33,0.25,0.58,37,36,36
+Warrenton,0.34,0.21,0.55,36,37,37
+Pembroke Hill,0.32,0.18,0.49,38,41,38
+Clayton,0.28,0.2,0.47,41,39,39
+Excelsior Springs,0.3,0.11,0.41,39,46,40
+Maryville,0.29,0.12,0.41,40,44,41
+Owensville,0.14,0.2,0.34,46,38,42
+Hollister,0.22,0.12,0.34,42,45,43
+Marshall,0.16,0.14,0.3,44,43,44
+Trinity Catholic,0.14,0.16,0.3,45,42,45
+Kennett,0.21,0.07,0.28,43,48,46
+Mt. Vernon,0.06,0.18,0.25,49,40,47
+Boonville,0.08,0.09,0.17,47,47,48
+Lafayette (St. Joseph),0.08,0.03,0.11,48,49,49
+Osage,0.0,0.03,0.03,50,50,50
+Bolivar,-0.03,0.02,-0.0,51,51,51
+Union,-0.06,-0.09,-0.15,52,54,52
+Fredericktown,-0.1,-0.08,-0.18,54,53,53
+Central (New Madrid County),-0.12,-0.06,-0.18,56,52,54
+Benton,-0.11,-0.1,-0.21,55,55,55
+Aurora,-0.1,-0.13,-0.22,53,57,56
+Potosi,-0.15,-0.1,-0.25,57,56,57
+Harrisonville,-0.18,-0.13,-0.31,58,58,58
+Doniphan,-0.25,-0.18,-0.43,60,59,59
+Odessa,-0.25,-0.27,-0.53,61,62,60
+Fulton,-0.3,-0.23,-0.53,63,60,61
+Wright City,-0.21,-0.33,-0.54,59,65,62
+Southern Boone,-0.26,-0.33,-0.59,62,64,63
+Bayless,-0.35,-0.27,-0.61,65,61,64
+Clinton,-0.36,-0.33,-0.69,66,66,65
+Cameron,-0.37,-0.37,-0.74,67,67,66
+Veritas Christian Academy,-0.46,-0.3,-0.76,71,63,67
+East Newton,-0.34,-0.43,-0.76,64,68,68
+North Technical,-0.37,-0.43,-0.81,68,70,69
+Chillicothe,-0.43,-0.43,-0.86,69,69,70
+St. Clair,-0.5,-0.44,-0.94,73,71,71
+Eldon,-0.44,-0.53,-0.98,70,73,72
+Oak Grove,-0.49,-0.5,-0.99,72,72,73
+Seneca,-0.52,-0.57,-1.09,74,74,74
+Versailles,-0.53,-0.69,-1.21,75,76,75
+University City,-0.66,-0.7,-1.36,78,77,76
+Mexico,-0.63,-0.74,-1.38,76,80,77
+Cassville,-0.64,-0.76,-1.4,77,81,78
+Soldan International Studies,-0.76,-0.65,-1.41,80,75,79
+Miller Career Academy,-0.7,-0.73,-1.43,79,79,80
+Ava,-0.86,-0.72,-1.58,82,78,81
+McCluer South-Berkeley,-0.78,-0.84,-1.62,81,84,82
+St. James,-0.86,-0.83,-1.7,83,83,83
+Kirksville,-0.93,-0.82,-1.75,86,82,84
+Jennings,-0.97,-0.85,-1.81,87,85,85
+Monett,-0.92,-0.91,-1.83,85,86,86
+Center,-0.91,-0.98,-1.9,84,88,87
+Lincoln College Prep,-1.0,-1.0,-2.0,88,89,88
+Hancock,-1.14,-0.97,-2.11,90,87,89
+Roosevelt,-1.01,-1.15,-2.16,89,91,90
+Salem,-1.18,-1.19,-2.37,92,92,91
+Cristo Rey,-1.17,-1.2,-2.37,91,93,92
+College Preparatory,-1.29,-1.1,-2.4,93,90,93
+Richmond,-1.54,-1.38,-2.91,94,94,94
+Central (Kansas City),-1.54,-1.6,-3.15,95,95,95
+Northeast (Kansas City),-1.76,-1.66,-3.42,96,96,96
+East (Kansas City),-1.93,-1.88,-3.82,97,97,97
+Hogan Prep Academy Charter,-2.02,-1.95,-3.97,98,98,98
+Southwest Early College,-2.16,-2.23,-4.39,99,99,99
